@@ -8,7 +8,9 @@
     -The purpose of this analysis is to detemine if the outcomes of theater campaigns are impacted by the date that they were launched and to determine if the funding goal of a campaign impacts the outcomes of the campaigns.
 
 
-## *Analysis and Challenges*: 
+## *Analysis and Challenges*:
+
+[Excel Analysis](Kickstarter_Challenge.xlsx.zip) 
 
 ### Analysis of Outcomes Based on Launch Date: 
     -In order to analyze if the theater outcomes were impacted by their launch date, I created a pivot table. The pivot table provided information on the number of campigns that were successful, failed, or were canceled within each month of the year. Additionally, this data could be broken down by a specific year if needed.
