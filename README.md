@@ -13,12 +13,12 @@
 ### Analysis of Outcomes Based on Launch Date: 
     -In order to analyze if the theater outcomes were impacted by their launch date, I created a pivot table. The pivot table provided information on the number of campigns that were successful, failed, or were canceled within each month of the year. Additionally, this data could be broken down by a specific year if needed.
     
-    ![Theater_Outcomes_vs_Launch](Resources/Theater_Outcomes_vs_Launch.png)
+    [Theater Outcomes vs Launch graph](Resources/Theater_Outcomes_vs_Launch.png)
  
 ### Analysis of Outcomes Based on Goals:
     -In order to analyze if the funding goal of a campaign impacted the outcome of the campaign, I created ranges for the goal of the campaigns and then determined the number of successful, failed, and canceled campaigns were within each of these specific ranges. I further refined this data by comparing the percentage of each outcome type within each specific range.
     
-    ![Outcomes_vs_Goal](Resources/Outcomes_vs_Goal.png)
+    [Outcomes vs Goals graph](Resources/Outcomes_vs_Goal.png)
 
 ### Challenges and Difficulties Encountered
     -Although I did not encounter any challenges with the analysis of this data, if it were impossible to break down this data based by the subcategory of Lousie's campaigns, it would lead to a much less in depth analysis and create difficultly in refining future campaigns to be successsful.
